@@ -255,5 +255,8 @@
   <ItemGroup>
     <None Include="Resources\AGU.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-utt-border.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
